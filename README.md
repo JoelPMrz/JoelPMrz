@@ -19,7 +19,7 @@ Aquí hay algunos de los lenguajes que domino:
 ![Java](img/Logo-Java.png)
 
 ### C Sharp
-![C Sharp](img/csharp.svg)
+![C Sharp](https://github.com/JoelPMrz/Portafolio/blob/main/img/csharp.svg)
 
 ### HTML
 ![HTML](img/Logo-HTML5.png)
