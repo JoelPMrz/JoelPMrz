@@ -1,35 +1,57 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con experiencia en varios lenguajes de programación. ¡Déjame contarte un poco sobre mí y mis habilidades!
+¡Hola! Soy [Joel Pérez], un apasionado desarrollador de software con experiencia en varios lenguajes de programación. ¡Déjame contarte un poco sobre mí y mis habilidades!
 
 ## Acerca de mí
-- 🌐 Desarrollador de software con [X] años de experiencia.
+- 🌐 Estudiante enfocado en herramientas web y desarrollo de aplicaciones.
 - 🚀 Apasionado por la creación de soluciones innovadoras y eficientes.
 
 ## Lenguajes de Programación
-Aquí hay algunos de los lenguajes que domino:
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-### Kotlin
-![Kotlin](img/Logo-Kotlin.png)
+    <!-- Kotlin -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Kotlin.png" alt="Kotlin" width="100">
+        <p align="center">Kotlin</p>
+    </div>
 
-### Compose
-![Compose](img/Lodo-compose.png)
+    <!-- Compose -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Lodo-compose.png" alt="Compose" width="100">
+        <p align="center">Compose</p>
+    </div>
 
-### Java
-![Java](img/Logo-Java.png)
+    <!-- Java -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Java.png" alt="Java" width="100">
+        <p align="center">Java</p>
+    </div>
 
-### C Sharp
-![C Sharp](https://github.com/JoelPMrz/Portafolio/blob/main/img/csharp.svg)
+    <!-- C Sharp -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/csharp.svg" alt="C Sharp" width="100">
+        <p align="center">C Sharp</p>
+    </div>
 
-### HTML
-![HTML](img/Logo-HTML5.png)
+    <!-- HTML -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-HTML5.png" alt="HTML" width="100">
+        <p align="center">HTML</p>
+    </div>
 
-### CSS
-![CSS](img/Logo-CSS3.png)
+    <!-- CSS -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-CSS3.png" alt="CSS" width="100">
+        <p align="center">CSS</p>
+    </div>
 
-### JavaScript
-![JavaScript](img/Logo-js.png)
+    <!-- JavaScript -->
+    <div>
+        <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-js.png" alt="JavaScript" width="100">
+        <p align="center">JavaScript</p>
+    </div>
 
+</div>
 
 ## Proyectos Destacados
 Puedes echar un vistazo a algunos de mis proyectos destacados:
