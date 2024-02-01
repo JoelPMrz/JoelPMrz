@@ -1,12 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Perfil de GitHub</title>
+</head>
+<body>
+
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Joel Pérez], un apasionado desarrollador de software con experiencia en varios lenguajes de programación. ¡Déjame contarte un poco sobre mí y mis habilidades!
+¡Hola! Soy Joel Pérez, un apasionado desarrollador de software con experiencia en varios lenguajes de programación. ¡Déjame contarte un poco sobre mí y mis habilidades!
 
 ## Acerca de mí
-- 🌐 Estudiante enfocado en herramientas web y desarrollo de aplicaciones.
+- 🌐 Estudianrte enfocado en herramientas web y dessarollo de aplicaciones.
 - 🚀 Apasionado por la creación de soluciones innovadoras y eficientes.
 
 ## Lenguajes de Programación
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
     <!-- Kotlin -->
@@ -54,15 +65,10 @@
 </div>
 
 ## Proyectos Destacados
-Puedes echar un vistazo a algunos de mis proyectos destacados:
-
-- [Proyecto 1](Enlace al Proyecto 1): Breve descripción del proyecto.
-- [Proyecto 2](Enlace al Proyecto 2): Breve descripción del proyecto.
+<!-- Tus proyectos destacados aquí -->
 
 ## Contacto
-¡Hablemos! Puedes encontrarme en:
+<!-- Tus opciones de contacto aquí -->
 
-- [LinkedIn](https://www.linkedin.com/in/joel-p%C3%A9rez-martinez-9925051b2/)
-- [Correo Electrónico](joelperezmartinez01@gmail.com)
-
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
+</body>
+</html>
