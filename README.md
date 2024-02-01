@@ -5,7 +5,7 @@
 ## Acerca de mí
 - 👨🏻‍💻 Estudiante enfocado en herramientas web y desarrollo de aplicaciones.
 - 🎓 FP de Desarrollo de aplicaciones Multiplataforma, en FP Aula Campus.
-- 🚀 Apasionado por la creación de soluciones innovadoras y eficientes.
+- 🚀 Apasionado por brindar valor con la creación de soluciones innovadoras y eficientes.
 
 ## Lenguajes de Programación
 
