@@ -1,7 +1,10 @@
-¡Hola! Soy Joel Pérez, un apasionado desarrollador de software con experiencia en varios lenguajes de programación. ¡Déjame contarte un poco sobre mí y mis habilidades!
+# Bienvenido a mi perfil de GitHub 👋
+
+¡Hola! Soy Joel Pérez, un joven etusiastapor el aprendizaje de nuevas tecnologías. ¡Déjame contarte un poco sobre mí y mis habilidades!
 
 ## Acerca de mí
 - 👨🏻‍💻 Estudiante enfocado en herramientas web y desarrollo de aplicaciones.
+- 🎓 FP de Desarrollo de aplicaciones Multiplataforma, en FP Aula Campus.
 - 🚀 Apasionado por la creación de soluciones innovadoras y eficientes.
 
 ## Lenguajes de Programación
