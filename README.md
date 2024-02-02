@@ -17,4 +17,5 @@
 <!-- Tus proyectos destacados aquí -->
 
 ## Contacto
-<!-- Tus opciones de contacto aquí -->
+[![Linkedin Badge](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Linkedin.png)](https://www.linkedin.com/in/joel-p%C3%A9rez-martinez-9925051b2/)
+[![Gmail Badge](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png)](mailto:joelperezmartinez01@gmail.com)
