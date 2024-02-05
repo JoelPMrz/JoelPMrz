@@ -14,5 +14,7 @@
 | ![Kotlin](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Kotlin.png) | ![Compose](https://github.com/JoelPMrz/Portafolio/raw/main/img/Lodo-compose.png) | ![Java](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Java.png) | ![C Sharp](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20csharp.png) | ![HTML](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-HTML5.png) | ![CSS](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-CSS3.png) | ![JavaScript](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-js.png) |
 
 ## Contacto
-[![Linkedin Badge](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Linkedin.png)](https://www.linkedin.com/in/joel-p%C3%A9rez-martinez-9925051b2/){ width=50% }
+<a href="https://www.linkedin.com/in/joel-p%C3%A9rez-martinez-9925051b2/">
+    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Linkedin.png" width="200" alt="Linkedin Badge">
+</a>
 [![Gmail Badge](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png)](mailto:joelperezmartinez01@gmail.com){ width=50% }
