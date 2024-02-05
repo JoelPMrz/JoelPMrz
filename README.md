@@ -15,8 +15,8 @@
 
 ## Contacto
 <a href="https://www.linkedin.com/in/joel-p%C3%A9rez-mart%C3%ADnez-9925051b2/">
-    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Linkedin.png" width="30" alt="Linkedin Badge">
+    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Linkedin.png" width="40" alt="Linkedin Badge">
 </a>
 <a href="mailto:joelperezmartinez01@gmail.com"> 
-    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png" width="30" alt="Gmail Badge">
+    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png" width="40" alt="Gmail Badge">
 </a>
