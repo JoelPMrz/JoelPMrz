@@ -17,4 +17,6 @@
 <a href="https://www.linkedin.com/in/joel-p%C3%A9rez-martinez-9925051b2/">
     <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Linkedin.png" width="50" alt="Linkedin Badge">
 </a>
-[<img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png" width="50" alt="Gmail Badge">](mailto:joelperezmartinez01@gmail.com)
+<a href="mailto:joelperezmartinez01@gmail.com"> 
+    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png" width="50" alt="Gmail Badge">
+</a>
