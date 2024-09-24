@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-¡Hola! Soy Joel Pérez, un joven de 23 años con la pasión de aprender nuevas tecnologías de desarrollo móvil. ¡Déjame contarte un poco sobre mí y mis habilidades!
+¡Hola! Soy Joel Pérez, un joven de 23 años con pasión en aprender nuevas tecnologías de desarrollo móvil. ¡Déjame contarte un poco sobre mí y mis habilidades!
 
 ## Acerca de mí
 - 👨🏻‍💻 Estudiante enfocado en herramientas web y desarrollo de aplicaciones.
