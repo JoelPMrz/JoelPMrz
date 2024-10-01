@@ -3,9 +3,9 @@
 ¡Hola! Soy Joel Pérez, un joven de 23 años con pasión en aprender nuevas tecnologías de desarrollo móvil. ¡Déjame contarte un poco sobre mí y mis habilidades!
 
 ## Acerca de mí
-- 👨🏻‍💻 Estudiante enfocado en herramientas web y desarrollo de aplicaciones.
-- 🎓 FP de Desarrollo de aplicaciones Multiplataforma, en FP Aula Campus.
-- 🚀 Aprendiendo dia a dia a mejorar en mi dessarrollo de aplicaciónes Android.
+- 👨🏻‍💻 Estudiante enfocado en herramientas móviles y desarrollo de aplicaciones nativas o multiplataforma.
+- 🎓 FP de Desarrollo de aplicaciones Multiplataforma, en Instituto FP Aula Campus.
+- 🚀 Aprendiendo día a día a mejorar mi dessarrollo de aplicaciónes Android.
 
 ## Lenguajes de Programación
 
