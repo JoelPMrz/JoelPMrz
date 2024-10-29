@@ -5,7 +5,7 @@
 ## Acerca de mí
 - 👨🏻‍💻 Estudiante enfocado en herramientas móviles y desarrollo de aplicaciones nativas o multiplataforma.
 - 🎓 FP de Desarrollo de aplicaciones Multiplataforma, en Instituto FP Aula Campus.
-- 🚀 Aprendiendo día a día a mejorar mi dessarrollo de aplicaciónes Android.
+- 🚀 Aprendiendo día a día a mejorar mis habilidades como desarrollador de aplicaciónes.
 
 ## Lenguajes de Programación
 
