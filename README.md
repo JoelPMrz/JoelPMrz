@@ -12,7 +12,7 @@
 
 | Kotlin | Compose | Java | XML | C Sharp | HTML | CSS | JavaScript |
 |--------|---------|------|-----|---------|------|-----|------------|
-| ![Kotlin](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Kotlin.png) | ![Compose](https://github.com/JoelPMrz/Portafolio/raw/main/img/Lodo-compose.png) | ![Java](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Java.png) | ![XML](https://github.com/JoelPMrz/Portafolio/raw/main/img/xml.png) |![C Sharp](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20csharp.png) | ![HTML](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-HTML5.png) | ![CSS](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-CSS3.png) | ![JavaScript](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-js.png) |
+|<img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Kotlin.png" width="40px" alt="Kotlin"> | <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Lodo-compose.png" width="40px" alt="Compose"> | <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Java.png" width="40px" alt="Java"> | <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/xml.png" width="40px" alt="XML"> | <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20csharp.png" width="40px" alt="C Sharp"> | <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-HTML5.png" width="40px" alt="HTML"> | <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-CSS3.png" width="40px" alt="CSS"> | <img src="https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-js.png" width="40px" alt="JavaScript"> |
 
 ## Contacto
 <a href="https://www.linkedin.com/in/joel-p%C3%A9rez-mart%C3%ADnez-9925051b2/">
