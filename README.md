@@ -8,7 +8,7 @@
 - 🚀 Aprendiendo día a día a mejorar mis habilidades como desarrollador de aplicaciónes.
 - 🏢 Buscando una empresa para realizar prácticas y continuar formándome.
 
-## Lenguajes de Programación
+## Tecnologías
 
 | Kotlin | Compose | Java | C Sharp | HTML | CSS | JavaScript |
 |--------|--------|------|---------|------|-----|----------|
