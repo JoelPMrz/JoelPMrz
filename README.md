@@ -10,9 +10,9 @@
 
 ## Tecnologías
 
-| Kotlin | Compose | Java | C Sharp | HTML | CSS | JavaScript |
-|--------|--------|------|---------|------|-----|----------|
-| ![Kotlin](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Kotlin.png) | ![Compose](https://github.com/JoelPMrz/Portafolio/raw/main/img/Lodo-compose.png) | ![Java](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Java.png) | ![C Sharp](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20csharp.png) | ![HTML](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-HTML5.png) | ![CSS](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-CSS3.png) | ![JavaScript](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-js.png) |
+| Kotlin | Compose | Java | XML | C Sharp | HTML | CSS | JavaScript |
+|--------|---------|------|-----|---------|------|-----|------------|
+| ![Kotlin](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Kotlin.png) | ![Compose](https://github.com/JoelPMrz/Portafolio/raw/main/img/Lodo-compose.png) | ![Java](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-Java.png) | ![XML](https://github.com/JoelPMrz/Portafolio/raw/main/img/xml.png) |![C Sharp](https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20csharp.png) | ![HTML](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-HTML5.png) | ![CSS](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-CSS3.png) | ![JavaScript](https://github.com/JoelPMrz/Portafolio/raw/main/img/Logo-js.png) |
 
 ## Contacto
 <a href="https://www.linkedin.com/in/joel-p%C3%A9rez-mart%C3%ADnez-9925051b2/">
