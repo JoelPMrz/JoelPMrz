@@ -33,7 +33,7 @@ Déjame contarte un poco sobre mí y mis habilidades 👇</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-p%C3%A9rez-mart%C3%ADnez-9925051b2/" target="_blank">
-    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/IconoLinkedin.png" width="40" alt="LinkedIn Badge">
+    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono20%Linkedin.png" width="40" alt="LinkedIn Badge">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:joelperezmartinez01@gmail.com">
