@@ -37,7 +37,7 @@ Déjame contarte un poco sobre mí y mis habilidades 👇</p>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:joelperezmartinez01@gmail.com">
-    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/Icono%20Correo.png" width="40" alt="Gmail Badge">
+    <img src="https://github.com/JoelPMrz/Portafolio/blob/main/img/ic_correo.png" width="40" alt="Gmail Badge">
   </a>
 </p>
 
