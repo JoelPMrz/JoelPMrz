@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenido a mi perfil de GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"></h1>
 
-<p align="center">¡Hola! Soy <strong>Joel Pérez</strong>, un joven de 23 años con pasión por aprender nuevas tecnologías de desarrollo móvil 📱<br>
+<p align="center">¡Hola! Soy <strong>Joel Pérez</strong>, un joven de 24 años con pasión por aprender nuevas tecnologías de desarrollo móvil 📱<br>
 Déjame contarte un poco sobre mí y mis habilidades 👇</p>
 
 ---
