@@ -8,7 +8,7 @@ Déjame contarte un poco sobre mí y mis habilidades 👇</p>
 ## 👨🏻‍💻 Acerca de mí
 
 - 💡 Estudiante enfocado en herramientas móviles y desarrollo de aplicaciones **nativas o multiplataforma**.
-- 🎓 Cursando un **FP de Desarrollo de Aplicaciones Multiplataforma** en *Instituto FP Aula Campus*.
+- 🎓 **Técnico Superior de Desarrollo de Aplicaciones Multiplataforma** en *Instituto FP Aula Campus*.
 - 🚀 Aprendiendo día a día para mejorar mis habilidades como desarrollador de aplicaciones.
 - 🏢 Actualmente **buscando una empresa** donde comenzar mi carrera profesional.
 
